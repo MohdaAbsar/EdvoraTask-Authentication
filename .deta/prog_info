@@ -1,0 +1,1 @@
+{"id":"ab6c5bc6-f52f-42f5-9a35-08512e14b850","space":26176,"runtime":"python3.9","name":"project","path":"m6bh8a","project":"c0mom0ze","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","uvicorn[standard]","python-multipart","fastapi-login","passlib[bcrypt]","python-jose","jinja2","rich"],"envs":null,"public":true,"log_level":"off","cron":""}
